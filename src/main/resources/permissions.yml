@@ -1,0 +1,14 @@
+# Allows the use of the /smitetimer command
+# beancommands.smitetimer
+
+# Allows the use of the /bcreload command
+# beancommands.reload
+
+# Allows the use of /autoannouncer commands
+# beancommands.autoannouncer
+
+# Allows the use of the /beancommands reload command
+# beancommands.reload
+
+# Allows the use of the /torch (player) command
+# beancommands.torch.others

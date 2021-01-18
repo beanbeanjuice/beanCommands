@@ -1,0 +1,7 @@
+# Players who are allowed to use the /supersudo command.
+
+allowed-players:
+  - 'EvanGamer2018'
+
+successful-sudo: "&aSuccessfully sudoed {player}&a!"
+incorrect-usage: "&cIncorrect usage. Please use /supersudo (player) (command)"

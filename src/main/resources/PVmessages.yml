@@ -1,0 +1,14 @@
+is-console: "Sorry, only a player can run this command."
+incorrect-usage: "&cSorry, usage is incorrect. Please do &d/pv (num)&c."
+not-a-player: "&c{player} &cis not a player."
+max-vault: "&cSorry, the maximum amount of vaults you have is currently &d{vault-size}&c."
+not-0: "&cThe minimum number must be greater than 0."
+vault-length: "&cSorry, you can only choose a number between 1 and {max-length}."
+incorrect-usage-others: "&cSorry, the correct usage is &b/pv (player) (num)&c."
+warning-message:
+  - '&c&lCAUTION&r&c: Plugin is still a WIP.'
+  - '&cWhen using playervaults, please take a screenshot of all your items'
+  - '&cso that in the event of a glitch or bug, you can request your items back.'
+  - '&cIf you do not have proof, you will not be given items back.'
+  - '&cPlease report any bugs or exploits to &dbeanbeanjuice#4595 &con the discord.'
+  - '&cBeing caught abusing an exploit will result in a permanent ban.'

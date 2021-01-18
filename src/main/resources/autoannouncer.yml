@@ -1,0 +1,17 @@
+# Prefix (Set to "none" to disable)
+prefix: "&8[&b&lbeanAnnouncer&8]"
+
+# Time Between Announcements (In Seconds)
+time: 300
+
+# Error Messages
+successful-add: "&aSuccessfully added: {broadcast}"
+list-broadcasts: "&aShowing all broadcasts:"
+help-message: "&aShowing all help messages:"
+help-messages:
+  - '&3/autoannouncer help &c- &dDisplays this message again.'
+  - '&3/autoannouncer list &c- &dDisplays all of the current broadcasts.'
+  - '&3/autoannouncer addbroadcast (message) &c- &dAdds a broadcast of your choice. (Supports color codes)'
+  - '&3/autoannouncer removebroadcast (ID) &c- &dRemove a selected broadcast.'
+
+# To edit messages, please go to the AOmessages.yml file

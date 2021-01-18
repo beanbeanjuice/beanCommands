@@ -1,0 +1,30 @@
+name: BeanCommands
+version: ${project.version}
+main: beanbeanjuice.beancommands.BeanCommands
+api-version: 1.16
+load: STARTUP
+authors: [beanbeanjuice]
+description: Commands for EvanGamer2018's Server
+
+commands:
+  smitetimer:
+    aliases: []
+    desription: A command to toggle the smite timer.
+  beancommands:
+    aliases: []
+    description: A general command.
+  autoannouncer:
+    aliases: []
+    description: A command to edit the broadcasts.
+  discord:
+    aliases: []
+    description: Shows discord messages.
+  torch:
+    aliases: [glow]
+    description: Toggles a glow effect on the player.
+  supersudo:
+    aliases: []
+    description: Sudo an opped player!
+  pv:
+    aliases: [playervault]
+    description: Open your playervault!

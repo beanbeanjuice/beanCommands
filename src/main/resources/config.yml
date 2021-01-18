@@ -1,0 +1,21 @@
+# INFORMATION
+# All messages within the "" can be used with the default Minecraft Color Codes such as; &7, &8, and much more.
+
+# Prefix for the entire plugin (Different for AutoAnnouncements)
+prefix: "&8[&b&lbeanCommands&8]"
+
+# Link for the /discord command:
+discord: "&a&lhttps://discord.gg/tnpx4jj"
+
+no-permission: "&cSorry, you do not have permission to use this command."
+successful-reload: "&aThe configuration files have been successfully reloaded."
+incorrect-usage: "&cSorry, the usage is incorrect. Use &d/beancommands help&c."
+not-a-player: "&c{player} &cis not a player."
+help-message: "&aShowing help messages:"
+help-messages:
+  - '&3/autoannouncer help &c- &dDisplays autoannouncer help messages.'
+  - '&3/smitetimer &c- &dToggles the smite timer.'
+  - '&3/discord &c- &dShows the discord URL.'
+  - '&3/torch &c- &dAdds a glowing effect to yourself!'
+  - '&3/supersudo &c- &dSudo an opped player!'
+  - '&3/pv &c- &dOpen your playervault!'

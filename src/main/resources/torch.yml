@@ -1,0 +1,6 @@
+# Messages for the Torch Plugin
+
+torch-enabled: "&aYou are now a human torch!"
+torch-disabled: "&cThe torch has died..."
+torch-enabled-others: "&aYou have now made &d{player} &aa human torch!"
+torch-disabled-others: "&cYou have taken away the glow effect of &d{player}&c!"

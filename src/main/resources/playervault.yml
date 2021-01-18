@@ -1,0 +1,9 @@
+prefix: "&8[&b&lbeanPV&8]"
+
+# DO NOT CHANGE
+vault-title: "&d&l{player}&d&l's vault"
+
+# Permissions
+# beancommands.playervault.[X] - X is the amount of playervaults a player is allowed to have.
+# beancommands.playervault.size.[X] - X is the size of the playervault. Possible sizes are 9, 18, 36, 45, 54. - beancommands.playervault.size.9
+# beancommands.playervault.others - Open other player's playervaults.

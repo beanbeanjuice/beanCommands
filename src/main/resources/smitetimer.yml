@@ -1,0 +1,10 @@
+# Time in Seconds Between Smites
+time: 300
+
+# Players who are exempt from being smitten
+exempt-players:
+  - 'EvanGamer2018'
+  - 'beanbeanjuice'
+
+# Whether or not enabling/disabling the smite timer should be broadcast to all players
+server-broadcast: true

@@ -1,6 +1,6 @@
 # beanRTP
 ### Background
-Hello! My name is William or **beanbeanjuice**. I hope you're doing okay! Welcome to my third plugin... **beanRTP**.
+Hello! My name is William or **beanbeanjuice**. I hope you're doing okay! Welcome to my fourth plugin... **beanCommands**.
 
 
 # Uses
